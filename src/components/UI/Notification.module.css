@@ -1,0 +1,15 @@
+.notification {
+  display: flex;
+  height: 4rem;
+  align-items: center;
+  justify-content: space-around;
+  font-size: large;
+  color: aliceblue;
+  background-color: purple;
+}
+.success {
+  background-color: #1ad1b9;
+}
+.error {
+  background-color: red;
+}
